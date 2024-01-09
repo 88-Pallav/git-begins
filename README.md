@@ -33,3 +33,4 @@ Pull request is made in the following cases:
 a. When you don't own the repository 
 b. When you don't have access rights 
 c. When you have to get your code reviewed.
+d. Also when Error "Updates were rejected because the remote contains work that you do not have locally"
