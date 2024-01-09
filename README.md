@@ -1,4 +1,5 @@
 # git-begins
-Learning Git for Beginners 
 
-Thank You FreeCodeCamp! 
+Learning Git for Beginners. 
+
+Thank You FreeCodeCamp :->
