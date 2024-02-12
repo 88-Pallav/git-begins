@@ -6,7 +6,7 @@ Thank You FreeCodeCamp :->
 
 Yada! Yada!
 
-## Sunheader 
+## Some header 
 
 Some more text from tutorial on youtube.
 Yada! Yada! 
@@ -16,11 +16,11 @@ So now what?
         GitHub WorkFlow                     Local Git WorkFlow
 
             Write Code                          Write Code
-                |                                   |
-                |                                   |
+                 |                                  |
+                 |                                  |
             Commit Changes                  Stage Changes (git add)
-                |                                   |
-                |                                   |
+                 |                                  |
+                 |                                  |
             Make a pull request             Commit Changes (git commit)
                                                     |
                                                     |
