@@ -36,7 +36,7 @@ c. When you have to get your code reviewed.
 d. Also when Error "Updates were rejected because the remote contains work that you do not have locally"
 
 
------------------------------------- Branching ----------------------------------------------
+-------------------------------- Branching -----------------------------
                             
                                                      (Hot fix branch)
                                                     |--- commit_1 ---|
@@ -44,7 +44,7 @@ d. Also when Error "Updates were rejected because the remote contains work that 
 commit_1 -----> commit_2 ------> commit_3 ------> commit_4 -------> merge -------> merge
                   |                                                                 |   
                   |                                                                 |
-                  |------> commit_1 -----> commit_2 ------------------------------->|   
+                  |------> commit_1 -----> commit_2   --------------------------->|   
                                (feature branch)  
 
 Master Branch is the main branch.
